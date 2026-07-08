@@ -50,3 +50,4 @@ Crie uma regra utilizando o seletor :hover para os seus cartões de postagem (ar
 Aproveite o efeito de sombra (box-shadow) aprendido em aula e faça com que essa sombra fique um pouco mais intensa ou mude de cor quando o card estiver com o mouse sobre ele (no mesmo seletor :hover).
 
 No modo escuro, ajuste a cor da sombra dos cards para que ela seja uma variação mais clara (como um azul brilhante ou cinza suave), garantindo que o efeito de profundidade ainda seja visível mesmo em fundos escuros.
+https://ljulia03-stack.github.io/PowerFit-Academia/
